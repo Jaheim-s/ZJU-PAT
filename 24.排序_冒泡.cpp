@@ -7,6 +7,7 @@ void print_list(Vertex *, int);
 
 void Bubble_sort(Vertex *, int); // 冒泡排序
 
+
 int main(){
     int N;
     cin >> N;
